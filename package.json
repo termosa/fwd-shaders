@@ -1,0 +1,14 @@
+{
+  "name": "fwd-shaders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "serve -p 3080"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^1.4.0"
+  }
+}
